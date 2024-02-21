@@ -1,4 +1,4 @@
-<img align= right scr= "https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge"/>
+<img align="right" scr="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge"/>
 
 ### Hi there 👋
 
