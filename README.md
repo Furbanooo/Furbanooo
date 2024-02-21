@@ -1,4 +1,4 @@
-<img align="right" scr="https://visitor-badge.laobi.icu/badge?page_id=furbanooo.furbanooo"/>
+<img align="right" scr="https://visitor-badge.laobi.icu/badge?page_id=Furbanooo.Furbanooo"/>
 
 ### Hi there 👋
 
