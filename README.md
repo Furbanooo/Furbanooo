@@ -1,7 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Furbanooo.Furbanooo"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+Display&weight=700&size=30&pause=1000&color=C5F7F3&center=true&vCenter=true&random=false&width=435&lines=Hellow...+%F0%9F%8C%8D%F0%9F%8C%8F%F0%9F%8C%8E;I'm+Furb+;Nice+To+Meet+You+%F0%9F%91%90%F0%9F%8F%BE" alt="Typing SVG" /></a>
-### Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+Display&weight=700&size=30&pause=1000&color=DBF7F1&center=true&vCenter=true&random=false&width=435&lines=Hellow...+..+.%F0%9F%8C%8D%F0%9F%8C%8F%F0%9F%8C%8E;I'm+Furb++%F0%9F%99%8B%F0%9F%8F%BE%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%AB%A1;Nice+To+Meet+You+...+..+.+." alt="Typing SVG" /></a>
 
 <!--
 **Furbanooo/Furbanooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
