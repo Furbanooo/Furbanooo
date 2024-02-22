@@ -1,9 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Furbanooo.Furbanooo"/>
 
-<h1 align="center">
-<img src="https://readme-typing-svg.demolab.com/?
-color=#eff4f8&font=NotoSerifDisplay&size=35&center=true&vcenter=true&width=500&height=70&duration=4000lines=***+Heeyyy+🌍;I'm+Furb;welcome+to+Y'all+👐🏾;" />
-</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+Display&weight=700&size=30&pause=1000&color=C5F7F3&center=true&vCenter=true&random=false&width=435&lines=Hellow...+%F0%9F%8C%8D%F0%9F%8C%8F%F0%9F%8C%8E;I'm+Furb+;Nice+To+Meet+You+%F0%9F%91%90%F0%9F%8F%BE" alt="Typing SVG" /></a>
 ### Hi there 👋
 
 <!--
