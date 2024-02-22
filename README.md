@@ -40,8 +40,12 @@
   </a>
 </p>
 <br>
- 
-</div>
+ <div align="center">
+    <img src="[![GitHub Streak](https://streak-stats.demolab.com?user=Furbanooo&theme=blue-navy&hide_border=true&border_radius=10&card_width=450)](https://git.io/streak-stats)"/>
+    <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Furbanooo&theme=catppuccin_mocha&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)"/>
+ <br>
+    <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)"/>
+ </div>
 <!--
 **Furbanooo/Furbanooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
