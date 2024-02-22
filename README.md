@@ -5,14 +5,15 @@
 <h3 align="center">Software programer from France</h3>
 <div align="center">
   *** I'm a junior software programer (The newbie 😅) , really happy and excited about learning new things *** <br>
-  🔭I'm currently working on **my portfolio📚** 
-  Fast learner⚡: I learn by doing and like sharing experiences with people
-  🌱 I’m currently learning **React, Django, web Api's...**
-  👯 I’m looking to collaborate on projects in JavaScript and Python to better myself 
-  🤔 I’m open to anything that could help me be a better software engineer
+  🔭I'm currently working on **my portfolio📚** <br>
+  Fast learner⚡: I learn by doing and like sharing experiences with people <br>
+  🌱 I’m currently learning **React, Django, web Api's...** <br>
+  👯 I’m looking to collaborate on projects in JavaScript and Python to better myself <br> 
+  🤔 I’m open to anything that could help me be a better software engineer <br>
   💬 Ask me about **JavaScript - Python**
 </div>
-
+<br>
+<br>
 <div align="center">
   <a href="mailto:furbandgbaguidi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
