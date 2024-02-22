@@ -30,13 +30,15 @@
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
 </div>
-
+<br>
 <h2 align="center">🛠️ Langauages - Tools - Framework</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,cpp,bash,css,figma,github,githubactions,html,js,linux,mysql,nodejs,py,stackoverflow," />
+    <img src="https://skillicons.dev/icons?i=cpp,bash,css,html,js,py,github,githubactions,linux," />
+    <img src="https://skillicons.dev/icons?i=git,docker,figma,mysql,nodejs,linux,stackoverflow," />
   </a>
 </p>
+<br>
  
 </div>
 <!--
