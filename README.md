@@ -30,7 +30,9 @@
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
 </div>
+
 <br>
+
 <h2 align="center">🛠️ Langauages - Tools - Framework</h2>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -39,8 +41,10 @@
     <img src="https://skillicons.dev/icons?i=git,docker,figma,mysql,nodejs,linux,stackoverflow," />
   </a>
 </p>
+
 <br>
- <div align="center">
+
+<div align="center">
     <img src="[![GitHub Streak](https://streak-stats.demolab.com?user=Furbanooo&theme=blue-navy&hide_border=true&border_radius=10&card_width=450)](https://git.io/streak-stats)"/>
     <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Furbanooo&theme=catppuccin_mocha&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)"/>
  <br>
