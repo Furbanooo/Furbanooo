@@ -4,7 +4,7 @@
 
 <h3 align="center">Software programer from France</h3>
 <div align="center">
-  *** I'm a junior software programer (The newbie 😅) , really happy and excited about learning new things ***
+  *** I'm a junior software programer (The newbie 😅) , really happy and excited about learning new things *** <br>
   🔭I'm currently working on **my portfolio📚** 
   Fast learner⚡: I learn by doing and like sharing experiences with people
   🌱 I’m currently learning **React, Django, web Api's...**
