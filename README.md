@@ -46,7 +46,7 @@
 
 <div align="center">
    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Furbanooo&theme=nord&hide_border=true" alt="GitHub Streak" /></a>   
-   <img src="https://github-readme-stats.vercel.app/api?username=Furbanooo&theme=nord&show_icons=true&hide_border=true)"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=Furbanooo&theme=nord&show_icons=true&hide_border=false)"/>
    <br>
    <img src="https://github-readme-stats.vercel.app/api?username=Furbanooo&theme=nord&show_icons=false)"/>
 </div>
