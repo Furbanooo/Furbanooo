@@ -44,9 +44,13 @@
 
 <br>
 
+<h2 align="center">✨ STATS ✨</h2>
+
+<br>
+
 <div align="center">
    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Furbanooo&theme=nord&hide_border=true" alt="GitHub Streak" /></a>   
-   <img src="https://github-readme-stats.vercel.app/api?username=Furbanooo&theme=nord&show_icons=true&border_color=ffffff)"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=Furbanooo&theme=nord&show_icons=true&border_color=ffffff&rank_icon=github)"/>
    <br>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furbanooo&theme=nord&show_icons=true&border_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)"/>
 </div>
