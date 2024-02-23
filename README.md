@@ -47,7 +47,7 @@
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Furbanooo&theme=nord&hide_border=true" alt="GitHub Streak" /></a>    <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Furbanooo&theme=catppuccin_mocha&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)"/>
  <br>
-    <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Furbanooo&theme=nord&show_icons=false)"/>
  </div>
 <!--
 **Furbanooo/Furbanooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
